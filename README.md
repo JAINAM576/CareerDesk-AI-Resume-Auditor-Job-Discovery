@@ -13,7 +13,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery">
     <img src="frontend/public/favicon.ico" alt="Logo" width="80" height="80" style="border-radius: 20px;">
   </a>
 
@@ -22,14 +22,14 @@
   <p align="center">
     An AI-Powered ATS Resume Auditing & Job Discovery Engine
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery">View Demo</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/issues">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/issues">Request Feature</a>
   </p>
 </div>
 
@@ -239,7 +239,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery](https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,16 +254,16 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery.svg?style=for-the-badge
+[contributors-url]: https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery.svg?style=for-the-badge
+[forks-url]: https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/network/members
+[stars-shield]: https://img.shields.io/github/stars/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery.svg?style=for-the-badge
+[stars-url]: https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery.svg?style=for-the-badge
+[issues-url]: https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/issues
+[license-shield]: https://img.shields.io/github/license/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery.svg?style=for-the-badge
+[license-url]: https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/
 [product-screenshot]: frontend/public/favicon.ico
