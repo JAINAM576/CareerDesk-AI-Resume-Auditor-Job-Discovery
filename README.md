@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery">
-    <img src="frontend/public/favicon.ico" alt="Logo" width="80" height="80" style="border-radius: 20px;">
+    <img src="frontend/public/favicon.svg" alt="Logo" width="80" height="80" style="border-radius: 20px;">
   </a>
 
   <h3 align="center">CareerDesk</h3>
@@ -65,7 +65,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -241,18 +240,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Project Link: [https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery](https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [Shields.io](https://shields.io)
-* [Font Awesome](https://fontawesome.com)
-* [Lucide React](https://lucide.dev)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery.svg?style=for-the-badge
 [contributors-url]: https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/graphs/contributors
@@ -266,7 +253,7 @@ Project Link: [https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Dis
 [license-url]: https://github.com/JAINAM576/CareerDesk-AI-Resume-Auditor-Job-Discovery/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/
-[product-screenshot]: frontend/public/favicon.ico
+[product-screenshot]: frontend/public/favicon.svg
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
