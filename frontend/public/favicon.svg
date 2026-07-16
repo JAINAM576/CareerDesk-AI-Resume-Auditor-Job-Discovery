@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2563eb" />
+      <stop offset="100%" stop-color="#0891b2" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <!-- Background rounded card -->
+  <rect width="512" height="512" rx="140" fill="url(#grad)" />
+  
+  <!-- Outer glass ring reflection -->
+  <rect x="16" y="16" width="480" height="480" rx="124" fill="none" stroke="#ffffff" stroke-width="8" stroke-opacity="0.2" />
+  
+  <!-- Glowing Sparkles -->
+  <g transform="translate(146, 126)" fill="#ffffff" filter="url(#glow)">
+    <!-- Main Sparkle -->
+    <path d="M 110,0 C 110,60.7 60.7,110 0,110 C 60.7,110 110,159.3 110,220 C 110,159.3 159.3,110 220,110 C 159.3,110 110,60.7 110,0 Z" />
+    <!-- Mini Sparkle -->
+    <path d="M 190,30 C 190,46.5 176.5,60 160,60 C 176.5,60 190,73.5 190,90 C 190,73.5 203.5,60 220,60 C 203.5,60 190,46.5 190,30 Z" opacity="0.8" />
+  </g>
+  
+  <!-- Desk/Document Indicators -->
+  <rect x="140" y="360" width="232" height="18" rx="9" fill="#ffffff" fill-opacity="0.85" />
+  <rect x="190" y="398" width="132" height="18" rx="9" fill="#ffffff" fill-opacity="0.85" />
+</svg>
